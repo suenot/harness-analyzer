@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-09-26
+
+### Added
+
+- Added copyable landing-page setup steps for CLI login, initial sync, and automatic macOS sync.
+
+### Fixed
+
+- Made the landing-page installation command selectable and copyable.
+
 ## [0.3.3] - 2026-09-26
 
 ### Changed
