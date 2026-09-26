@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.2] - 2026-09-26
+
+### Fixed
+
+- Made the landing-page command visibly selectable and used the hero's right column for sync setup.
+
 ## [0.4.1] - 2026-09-26
 
 ### Fixed
