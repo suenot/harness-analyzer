@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.4] - 2026-09-27
+
+### Fixed
+
+- Add GPT-6 and newer GLM cost estimates, correct Codex reasoning token totals, and use distinct green shades for GPT models.
+- Recollect local caches so corrected estimates reach hosted analytics on the next sync.
+
 ## [0.4.3] - 2026-09-27
 
 ### Added

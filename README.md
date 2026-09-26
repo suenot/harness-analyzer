@@ -23,7 +23,7 @@ harness-analyzer summary
 
 The CLI also offers `today`, `week`, `month`, `projects`, and `sessions`. These local reports do not need a hosted account.
 
-Model names come from local logs. Token usage for a model without a known price is still shown, but its USD estimate is $0 until that model has a rate.
+Model names come from local logs. Token usage for a model without a known price is still shown, but its USD estimate is $0 until that model has a rate. USD figures are estimates, not billing records; subscription charges, service tiers, and long contexts may differ.
 
 To sync with the website:
 
