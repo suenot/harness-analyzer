@@ -21,7 +21,7 @@ services:
       harness-analyzer-db:
         condition: service_healthy
     volumes:
-      - ./data:/data/.claude-stats
+      - ./data:/data/.harness-analyzer
     networks:
       - web
       - harness-internal

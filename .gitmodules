@@ -3,13 +3,13 @@
 	url = https://github.com/658jjh/claude-usage-tracker.git
 [submodule "core"]
 	path = core
-	url = https://github.com/suenot/claude-usage-stats-core.git
+	url = https://github.com/suenot/harness-analyzer-core.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/suenot/claude-usage-stats-backend.git
+	url = https://github.com/suenot/harness-analyzer-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/suenot/claude-usage-stats-frontend.git
+	url = https://github.com/suenot/harness-analyzer-frontend.git
 [submodule "cli"]
 	path = cli
-	url = https://github.com/suenot/claude-usage-stats-cli.git
+	url = https://github.com/suenot/harness-analyzer-cli.git
