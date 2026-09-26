@@ -7,9 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.3] - 2026-09-27
+
 ### Added
 
 - Added an English project README with installation, sync, privacy, and development guidance plus a four-panel explanatory comic.
+
+### Fixed
+
+- Read model names from local transcripts without substituting GLM 5.2 for unknown or unpriced models.
+- Recollect old caches and update hosted charts to preserve the recorded model labels.
 
 ## [0.4.2] - 2026-09-26
 

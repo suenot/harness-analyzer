@@ -23,6 +23,8 @@ harness-analyzer summary
 
 The CLI also offers `today`, `week`, `month`, `projects`, and `sessions`. These local reports do not need a hosted account.
 
+Model names come from local logs. Token usage for a model without a known price is still shown, but its USD estimate is $0 until that model has a rate.
+
 To sync with the website:
 
 1. Sign in at [Profile](https://harness-analyzer.marketmaker.cc/profile) and create a CLI sync token.
