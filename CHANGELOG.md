@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.5] - 2026-09-27
+
+### Fixed
+
+- Merge explicitly linked device identities after an OS reinstall, retaining unique historical sessions and preferring current analytics for duplicates.
+
 ## [0.4.4] - 2026-09-27
 
 ### Fixed
