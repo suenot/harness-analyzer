@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.7] - 2026-09-30
+
+### Fixed
+
+- Remove the "See the method" link from the landing hero.
+
 ## [0.4.6] - 2026-09-30
 
 ### Fixed
