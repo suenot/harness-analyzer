@@ -47,7 +47,7 @@ harness-analyzer background start
 
 Standard sync reads logs locally and sends **per-session usage statistics** to the server: date and time, source and model, token and cache counts, estimated cost, hourly usage, project folder names, and private device metadata (ID, name, platform, and architecture). The server stores these statistics and builds the signed-in dashboard. The device name defaults to the computer's hostname, so change it with `--device-name` if needed.
 
-Standard sync does **not** upload conversation text, prompts, raw log files, file contents, full project paths, or original session IDs. Public sharing is separate and **private by default**; Profile controls what, if anything, appears publicly.
+Standard sync does **not** upload conversation text, prompts, raw log files, file contents, full project paths, or original session IDs. Profile sharing is separate and **private by default**. Profile controls the shared data and its audience: everyone, or selected friends by account email and groups from auth-service. Selected recipients must sign in; selected profiles stay out of the public ranking.
 
 The optional `harness-analyzer sync --include-history` command **does upload conversation history**, which may contain private text. Use it only when that is intended. Automatic background sync never adds this flag.
 
